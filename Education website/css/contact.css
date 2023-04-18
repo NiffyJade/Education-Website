@@ -58,6 +58,7 @@
     background: transparent;
 }
 
+/*====== Form ========*/
 .contact__form {
     display: flex;
     flex-direction: column;
@@ -88,7 +89,7 @@ input, textarea {
 }
 
 /*======== Media qUERIES (tablet) =========*/
-@media screen and (max-width: 102px) {
+@media screen and (max-width: 1024px) {
     .contact {
         padding-bottom: 0;
     }
